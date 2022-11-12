@@ -1,2 +1,2 @@
 This is the info file for the example.
-Like Hello World!
+Like "Hello World!".
